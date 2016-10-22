@@ -18,12 +18,23 @@ namespace Encapsulation  //Think hiding implementation of fields, user never see
         public string Color
         {
             get { return this.color; }
-            set { this.color = value; } 
+            set { this.color = value; } //Can put logic in the set value to make sure input data is good
         }
         public int Age
         {
             get { return this.age; }  //instance *variable* so lower case
-            set { this.age = value; } //value = keyword meaning value user is going to pass in
+            set
+            {
+                if(value < 0)
+                {
+                    Console.WriteLine("Age cannot be less than 0.");
+                }
+                else
+                {
+                    this.age = value;
+                }
+                
+            } //value = keyword meaning value user is going to pass in
         }
 
 

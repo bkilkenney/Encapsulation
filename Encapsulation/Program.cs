@@ -11,16 +11,32 @@ namespace Encapsulation
         static void Main(string[] args)
         {
 
-            Animal simba = new Animal();
+            Dog Sami = new Dog();
+            Sami.Age = 4;
 
-            Console.WriteLine("How old is your pet Lion?");
-            simba.Age = int.Parse(Console.ReadLine());
+            Console.WriteLine(Sami.Age);
+            Sami.move();
+            
+            
+            
+            
+            
+            //Animal simba = new Animal();
 
-            Console.ReadKey();
 
-            Console.WriteLine("Your pet Lion Simba is " + simba.Age + " years old, that's wonderful!\n");
+            //Console.WriteLine("How old is your pet Lion?");
+            //simba.Age = int.Parse(Console.ReadLine());
 
-            Console.ReadKey();
+            //if (simba.Age > 0)
+            //    {
+            //        Console.WriteLine("Your pet Lion Simba is " + simba.Age + " years old, that's wonderful!\n");
+            //    }
+            //    else
+            //    {
+            //    Console.Clear();
+            //    }
+
+            //Console.ReadKey();
 
             
         }
