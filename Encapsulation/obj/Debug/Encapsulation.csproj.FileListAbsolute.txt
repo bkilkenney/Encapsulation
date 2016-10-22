@@ -10,3 +10,6 @@ C:\Users\Gerry O'Brien\Desktop\Exercise Files\Encapsulation\Encapsulation\obj\De
 C:\Users\bkilkenney\OneDrive\Lynda C# Files\Ex_Files_UaR_CSharp\Exercise Files\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
 C:\Users\bkilkenney\OneDrive\Lynda C# Files\Ex_Files_UaR_CSharp\Exercise Files\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
 C:\Users\bkilkenney\OneDrive\Lynda C# Files\Ex_Files_UaR_CSharp\Exercise Files\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
+C:\Users\bkilkenney\OneDrive\Lynda C# Files\Ex_Files_UaR_CSharp\Exercise Files\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\bkilkenney\OneDrive\Lynda C# Files\Ex_Files_UaR_CSharp\Exercise Files\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\bkilkenney\OneDrive\Lynda C# Files\Ex_Files_UaR_CSharp\Exercise Files\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
